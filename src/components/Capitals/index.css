@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-page {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  border-radius: 15px;
+  border: none;
+  background-color: #f8fafc;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  font-size: 34px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.select {
+  border: 1px solid #cbd2d9;
+
+  width: 200px;
+  height: 30px;
+  border-radius: 6px;
+}
+.capital-container {
+  display: flex;
+
+  align-items: center;
+}
+.para {
+  color: #323f4b;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-left: 7px;
+}
